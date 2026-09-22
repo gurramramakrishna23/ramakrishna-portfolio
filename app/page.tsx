@@ -75,10 +75,10 @@ export default function Home() {
         <h2>Building with code, data & curiosity.</h2>
 
         <p className="section-text">
-          I&apos;m a Computer Science and Data Science student with a strong
-          interest in software development, data science, machine learning,
-          and problem solving. I enjoy turning ideas into practical projects
-          and learning new technologies through hands-on development.
+          I&apos;m a Computer Science student with a strong interest in
+          software development, data science, machine learning, and problem
+          solving. I enjoy turning ideas into practical projects and learning
+          new technologies through hands-on development.
         </p>
       </section>
 
@@ -152,12 +152,10 @@ export default function Home() {
             </div>
 
             <a
-              href="https://github.com/gurramramakrishna23/smart-attendance-tracker"
-              target="_blank"
-              rel="noopener noreferrer"
+              href="/projects/smart-attendance-tracker"
               className="project-link"
             >
-              View on GitHub →
+              View Project →
             </a>
           </article>
 
@@ -179,12 +177,10 @@ export default function Home() {
             </div>
 
             <a
-              href="https://github.com/gurramramakrishna23/titanic-survival-prediction"
-              target="_blank"
-              rel="noopener noreferrer"
+              href="/projects/titanic-survival-prediction"
               className="project-link"
             >
-              View on GitHub →
+              View Project →
             </a>
           </article>
 
@@ -206,12 +202,10 @@ export default function Home() {
             </div>
 
             <a
-              href="https://github.com/gurramramakrishna23/data-entry-cleaning-dashboard"
-              target="_blank"
-              rel="noopener noreferrer"
+              href="/projects/data-cleaning-dashboard"
               className="project-link"
             >
-              View on GitHub →
+              View Project →
             </a>
           </article>
         </div>
